@@ -1,7 +1,7 @@
-const accountId=431001
-let accountEmail="sanika@gmail.com"
-var accountPassword="12345"
-accountCity="Jaipur" //should not be used
+const accountId = 431001
+let accountEmail = "sanika@gmail.com"
+var accountPassword = "12345"
+accountCity = "Jaipur" //should not be used
 let accouontState; //undefined
 
 // accountId=2// not allowed
