@@ -39,8 +39,8 @@ const user = {
 // const addtwo = (num1, num2) => {
 //     return num1 + num2      -->explicit return
 // }
-// const addtwo = (num1, num2) => num1 + num2
-// const addtwo = (num1, num2) => ( num1 + num2 ) -->implicit return
+// const addtwo = (num1, num2) => num1 + num2        -->implicit return
+// const addtwo = (num1, num2) => ( num1 + num2 )    -->implicit return
 
 // const addtwo = (num1, num2) => ({username: "san"})
 // console.log(addtwo(3, 4))
